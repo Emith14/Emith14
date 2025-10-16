@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">👋 ¡Hola, soy Edson Emith González! </h1>
-<h3 align="center">💻 Fullstack & Backend Developer | Laravel | MySQL | API REST | Automations</h3>
+<h3 align="center">💻 Fullstack Developer | Laravel | MySQL | API REST | Automations</h3>
 
 ---
 
@@ -48,17 +48,43 @@ Mi enfoque está en optimizar procesos, documentar APIs con precisión y asegura
 
 ## 🚀 Proyectos Destacados
 
+### 🔹 **Solvex Management Solutions – Chatbots Inteligentes para Negocios**
+Desarrollo de chatbots automatizados con **WhatsApp Business API (Meta)** para atención 24/7, integración con **OpenAI** y despliegue en **DigitalOcean**.  
+🤖 *Aplicaciones reales:* Hotel San Ignacio Inn y Construrama (atención automatizada, reservas, cotizaciones y seguimiento de clientes).  
+🧩 *Tecnologías:* JavaScript, Node.js, Meta API, DigitalOcean, OpenAI.
+
+---
+
+### 🔹 **Vonka360 – Plataforma B2B de Pedidos y Clientes**
+Desarrollo completo desde cero de una plataforma **B2B e-commerce/ERP-CRM**, permitiendo a empresas manejar **pedidos, productos, clientes y pagos** en línea.  
+🌐 *Stack:* Laravel + Angular + MySQL | *Infraestructura:* Hostinger + Cloudflare.  
+⚙️ *Resultado:* Flujo automatizado de compras y gestión de inventarios optimizado.
+
+---
+
+### 🔹 **Block Bristol – Sistema Punto de Venta (POS)**
+Desarrollo de un **sistema integral de punto de venta** para la gestión de **pedidos, clientes, inventario y ventas** en tiempo real.  
+🧱 *Stack:* Laravel + Angular + MySQL | *Infraestructura:* Hostinger + Cloudflare.  
+💼 *Resultado:* Optimización del proceso de venta, control de stock y análisis de ventas centralizado.
+
+---
+
 ### 🔹 **Bapo ProMetal – Sistema de Gestión de Producción**
 Automatización del control de hornos, cálculo de producción y reportes en Angular.  
 📊 *Resultado:* Reducción de errores manuales y aumento de eficiencia operativa.
+
+---
 
 ### 🔹 **SmartNest – Incubadora Inteligente IoT**
 Monitoreo en tiempo real usando **Raspberry Pi**, **ESP32** y sensores múltiples.  
 ☁️ *Despliegue:* AWS Ubuntu | *Frontend:* Angular | *Backend:* Python.
 
+---
+
 ### 🔹 **Brasof – Pulsera Inteligente NFC**
 Sistema de APIs en Laravel con autenticación OAuth y control de eventos vía NFC.  
 🌐 *Infraestructura:* DigitalOcean + Cloudflare.
+
 
 ---
 
