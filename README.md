@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-url.com/banner-edsonemithgonzalez.png" alt="Edson Emith González – Fullstack & Backend Developer" width="100%">
-</p>
-
 <!-- Encabezado -->
 <h1 align="center">👋 ¡Hola, soy Edson Emith González! </h1>
 <h3 align="center">💻 Fullstack & Backend Developer | Laravel | MySQL | API REST | Automations</h3>
