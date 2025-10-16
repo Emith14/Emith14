@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">👋 ¡Hola, soy Edson Emith González! </h1>
-<h3 align="center">💻 Fullstack Developer | Laravel | MySQL | API REST | Automations</h3>
+<h3 align="center">💻 Fullstack Developer +1 año de experiencia | Laravel | MySQL | API REST | Automations</h3>
 
 ---
 
