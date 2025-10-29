@@ -13,7 +13,8 @@ Mi enfoque está en optimizar procesos, documentar APIs con precisión y asegura
 🌍 Torreón, Coahuila, México  
 🎓 Técnico en Desarrollo de Software Multiplataforma – *Universidad Tecnológica de Torreón*  
 📧 **edsonalgarate@gmail.com**
-portfolio: my-portfolio-zeta-lac-42.vercel.app
+
+portfolio: **my-portfolio-zeta-lac-42.vercel.app**
 
 ---
 
